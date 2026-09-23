@@ -1,0 +1,6 @@
+{
+  "name": "Comando Tome Nota",
+  "description": "Sistema Operacional de Gestão Sistêmica e Comando Executivo do Grupo Tome Nota e Reev.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
